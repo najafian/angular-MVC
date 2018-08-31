@@ -1,0 +1,118 @@
+﻿grid-stack-item {
+    background-color: antiquewhite !important;
+    margin: 0 0 0 2px !important;
+}
+
+.menusliderDashboard {
+    height: 300px !important;
+    width: 200px !important;
+}
+
+.grid-stack {
+    min-height: 100px !important;
+}
+
+gridster {
+    direction: ltr !important;
+}
+
+.row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+gridster-grid > .row {
+    padding-left: 10px !important;
+}
+
+.gridster-item-content {
+    height: calc(100% - (25px));
+    width: 100%;
+    background-color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid cornflowerblue;
+}
+
+.gridster-header {
+    height: 25px;
+    width: 100%;
+    background-color: #abcbd6;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 1px #7777a5 solid;
+    display: flex;
+}
+
+.gridster-container {
+    height: 100%;
+    width: 100%;
+}
+
+gridster-item, gridster, .gridster-container {
+    background-color: transparent !important;
+}
+
+.gridster-header-right {
+    direction: rtl;
+    width: 50% !important;
+    display: flex !important;
+    padding: 1px 2px 0 0;
+}
+
+.gridster-header-left {
+    direction: ltr;
+    width: 50% !important;
+    display: flex !important;
+}
+
+.gridster-header-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    direction: rtl;
+    font-size: 12px;
+    padding: 2px 0px 0px 2px;
+}
+
+
+input[type=button], input[type=submit], input[type=reset], button, .button {
+  padding:1px;
+    display: inline-block;
+    color: #741C1C;
+    font-size: 26px;
+    cursor: pointer;
+    background: #E6F0F4;
+    background: linear-gradient(top, #E6F0F4 0%, #cdd7db 100%);
+    background: -moz-linear-gradient(top, #E6F0F4 0%, #cdd7db 100%);
+    background: -webkit-linear-gradient(top, #E6F0F4 0%, #cdd7db 100%);
+    background: -o-linear-gradient(top, #E6F0F4 0%, #cdd7db 100%);
+    border: 1px solid #338bf6;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 0px 0px 2px 1px rgba(224, 194, 194, 0.25), inset 1px 1px 0px 0px rgba(255, 255, 255, 0.25);
+    -moz-box-shadow: 0px 0px 2px 1px rgba(224, 194, 194, 0.25), inset 1px 1px 0px 0px rgba(255, 255, 255, 0.25);
+    -webkit-box-shadow: 0px 0px 2px 1px rgba(224, 194, 194, 0.25), inset 1px 1px 0px 0px rgba(255, 255, 255, 0.25);
+    -o-box-shadow: 0px 0px 2px 1px rgba(224, 194, 194, 0.25), inset 1px 1px 0px 0px rgba(255, 255, 255, 0.25);
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.50);
+}
+
+    input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover, button:hover, .button:hover {
+        background: linear-gradient(top, #ffffff 0%, #E6F0F4 100%);
+        background: -moz-linear-gradient(top, #ffffff 0%, #E6F0F4 100%);
+        background: -webkit-linear-gradient(top, #ffffff 0%, #E6F0F4 100%);
+        background: -o-linear-gradient(top, #ffffff 0%, #E6F0F4 100%);
+    }
+
+    input[type=button]:active, input[type=submit]:active, input[type=reset]:active, button:active, .button:active {
+        opacity: 0.8;
+    }
+.gadget-view, .grid-stack-item-content {
+    height: 100%;
+    width: 100%;
+}
+.e-tab .e-active-content{
+
+}

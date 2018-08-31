@@ -1,0 +1,27 @@
+.control_section {
+    height: 600px;
+    width: 100%;
+    background-color: transparent;
+}
+
+.diagram_section {
+    width: calc(100% - 235px);
+    height: 100%;
+    float: left;
+}
+
+.middle_section {
+    float: left;
+    width: 5px;
+    height: 100%;
+}
+
+.symPalette_section {
+    width: 230px;
+    height: 100%;
+    float: left;
+}
+
+.row .cols-prop-area {
+    display: none;
+}

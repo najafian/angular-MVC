@@ -1,0 +1,33 @@
+.e-item.e-top-line,.e-item.e-rtl-top-line>.e-link{
+    padding: 0px !important;
+    font-size: 12px;
+}
+.e-select.e-item.e-rtl-top-line,.e-item.e-rtl-top-line>.e-link{
+    padding: 0px !important;
+    font-size: 12px;
+}
+.e-icon.e-close.e-tabdelete{
+    margin-top: 3px !important;
+}
+.e-hidetop.e-addbordertop.e-content.e-content-item.e-box.e-activebottom.e-active-content{
+    padding: 1px !important;
+}
+.padding2px{
+    padding: 2px;
+}
+div[id^=tabPanel]{
+    overflow: auto !important;
+}
+.e-item.e-top-line{
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 6px;
+}
+.e-titlebar.e-header.e-dialog.e-draggable.e-js{
+    padding: 2px 0px 2px 3px;
+}
+.e-dialog.e-js.e-widget-content.e-box{
+    padding: 1px 3px 3px 3px;
+}
+.e-tab.e-js > .e-content{
+    padding: 2px !important;
+}

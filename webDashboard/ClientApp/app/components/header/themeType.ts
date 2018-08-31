@@ -1,0 +1,38 @@
+export enum ThemeType{
+    flatazure='flatazure',
+    flatazuredark='flatazuredark',
+    flatlime='flatlime',
+    flatlimedark='flatlimedark',
+    flatsaffron='flatsaffron',
+    flatsaffrondark='flatsaffrondark',
+    gradientazure='gradientazure',
+    gradientazuredark='gradientazuredark',
+    gradientlime='gradientlime',
+    gradientlimedark='gradientlimedark',
+    gradientsaffron='gradientsaffron',
+    gradientsaffrondark='gradientsaffrondark',
+    flatbootstrap='flatbootstrap',
+    highcontrast01='highcontrast01',
+    highcontrast02='highcontrast02',
+    material='material',
+    office365='office365'
+}
+export enum ThemHRef{
+    flatazure='dist/Content/styles/ej/web/default-theme/ej.web.all.css',
+    flatazuredark='dist/Content/styles/ej/web/flat-azure-dark/ej.web.all.css',
+    flatlime='dist/Content/styles/ej/web/flat-lime/ej.web.all.css',
+    flatlimedark='dist/Content/styles/ej/web/flat-lime-dark/ej.web.all.css',
+    flatsaffron='dist/Content/styles/ej/web/flat-saffron/ej.web.all.css',
+    flatsaffrondark='dist/Content/styles/ej/web/flat-saffron-dark/ej.web.all.css',
+    gradientazure='dist/Content/styles/ej/web/gradient-azure/ej.web.all.css',
+    gradientazuredark='dist/Content/styles/ej/web/gradient-azure-dark/ej.web.all.css',
+    gradientlime='dist/Content/styles/ej/web/gradient-lime/ej.web.all.css',
+    gradientlimedark='dist/Content/styles/ej/web/gradient-lime-dark/ej.web.all.css',
+    gradientsaffron='dist/Content/styles/ej/web/gradient-saffron/ej.web.all.css',
+    gradientsaffrondark='dist/Content/styles/ej/web/gradient-saffron-dark/ej.web.all.css',
+    flatbootstrap='dist/Content/styles/ej/web/bootstrap-theme/ej.web.all.css',
+    highcontrast01='dist/Content/styles/ej/web/high-contrast-01/ej.web.all.css',
+    highcontrast02='dist/Content/styles/ej/web/high-contrast-02/ej.web.all.css',
+    material='dist/Content/styles/ej/web/material/ej.web.all.css',
+    office365='dist/Content/styles/ej/web/office-365/ej.web.all.css'
+}

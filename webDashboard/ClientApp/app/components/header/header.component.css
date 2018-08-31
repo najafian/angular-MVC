@@ -1,0 +1,117 @@
+.columnHeader {
+    width: 50%;
+    height: 100%;
+    position: inherit;
+}
+/* Theme studio css*/
+
+.SB-theme {
+    background: url("./img/themeicon1.png") no-repeat;
+    display: block;
+    width: 25px;
+    height: 28px;
+}
+
+.SB-bootstrap {
+    background-position: -5px -5px;
+}
+
+.SB-high-contrast-01 {
+    background-position: -40px -118px;
+}
+
+.SB-high-contrast-02 {
+    background-position: -75px -119px;
+}
+
+.SB-material {
+    background-position: -5px -158px;
+}
+
+.SB-office365 {
+    background-position: -110px -119px;
+}
+
+.SB-flat-azure {
+    background-position: -40px -5px;
+}
+
+.SB-flat-azure-dark {
+    background-position: -75px -5px;
+}
+
+.SB-flat-lime {
+    background-position: -5px -43px;
+}
+
+.SB-flat-lime-dark {
+    background-position: -40px -43px;
+}
+
+.SB-flat-saffron {
+    background-position: -75px -43px;
+}
+
+.SB-flat-saffron-dark {
+    background-position: -5px -81px;
+}
+
+.SB-gradient-azure {
+    background-position: -40px -81px;
+}
+
+.SB-gradient-azure-dark {
+    background-position: -75px -81px;
+}
+
+.SB-gradient-lime {
+    background-position: -110px -5px;
+}
+
+.SB-gradient-lime-dark {
+    background-position: -110px -43px;
+}
+
+.SB-gradient-saffron {
+    background-position: -110px -81px;
+}
+
+.SB-gradient-saffron-dark {
+    background-position: -5px -119px;
+}
+
+li[role="menuitem"]{
+    height: 40px;
+    width: 170px;
+}
+.e-custom-theme .e-list > ul .e-list {
+    padding: 8px 9px;
+}
+.e-menulink{
+    padding: 0 0 0 0;
+}
+.themeLabel {
+    padding: 5px 30px 0 0;
+}
+.e-menu {
+background-color:transparent !important;
+border:1px solid gray;
+}
+.e-menu:hover {
+    background-color: lightblue !important;
+    border: 1px solid gray;
+}
+
+.user-image{
+    height: 30px;
+}
+.navbar-nav>li>a{
+    padding: 5px 5px 0px 0px;
+}
+.dropdown-menu{
+    height: 265px;
+    overflow: auto;
+}
+.pull-left>.img-circle{
+    height: 30px;
+}

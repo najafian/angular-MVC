@@ -1,0 +1,23 @@
+﻿<gridster [options]="options">
+    <gridster-item [item]="item" *ngFor="let item of dashboard">
+        <div class="gridster-container">
+            <div class="gridster-header">
+                <div class="gridster-header-left">
+                    <div class="gridster-header-text">
+                        داشبورد آنالیز مالی
+                    </div>
+                </div>
+                <div class="gridster-header-right">
+                    <button class="e-icon e-file-settings"></button>
+                    <button class="e-icon e-restore"></button>
+                    <button class="e-icon e-export"></button>
+                </div>
+                <div class="empty-grid-header"></div>
+
+            </div>
+            <div class="gridster-item-content">
+                <div class="empty-grid-content" style="width:100%;height:100%;"></div>
+            </div>
+        </div>
+    </gridster-item>
+</gridster>

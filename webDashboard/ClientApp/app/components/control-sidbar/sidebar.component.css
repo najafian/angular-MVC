@@ -1,0 +1,20 @@
+.imgIconSmall {
+    height: 29px !important;
+    top: 4px !important;
+    left: 4px !important;
+}
+.imgIconMedium {
+    height: 36px !important;
+    top: 0px !important;
+    left: 0px !important;
+}
+.aLink{
+    height: 35px !important;
+    padding: 0px !important;
+}
+.e-menu-wrap{
+    height: 100% !important;
+}
+.e-menu.e-horizontal .e-list > ul li.e-list > .e-menulink, .e-menu.e-vertical .e-list > .e-menulink{
+    min-width: 35px !important;
+}

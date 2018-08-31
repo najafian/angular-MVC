@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ClientApp/app/components/control-sidbar/sidebar.component.ts" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13207ad7-1e50-49cb-b336-b2f63b166720" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClientApp/app/components/initializer/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>300</find>
+      <find>tabID</find>
+      <find>calc(100%</find>
+      <find>addDashboardEl</find>
+      <find>padding2px</find>
+      <find>displaySettings</find>
+      <find>e-active</find>
+      <find>.left-half-body</find>
+      <find>e-margine-bottom</find>
+      <find>renderer</find>
+      <find>body-app</find>
+      <find>init</find>
+      <find>containerElement</find>
+      <find>tabid</find>
+      <find>e-item.e-top-line</find>
+      <find>rootEl</find>
+      <find />
+      <find>column</find>
+      <find>user2-160x160.jpg</find>
+      <find>img</find>
+      <find>user-image</find>
+      <find />
+      <find>NavigationDrawer</find>
+      <find>navbar-custom-menu</find>
+      <find>connectors</find>
+      <find>list</find>
+      <find>list:</find>
+      <find>_treeviewObject</find>
+      <find>setCallback</find>
+      <find>app-explorer</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Files\repos\webDashboard\webDashboard</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.component.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ClientApp/app/components/services/MainServices.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/BPMN.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/workflow/designer/workflowDesigner.component.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ClientApp/app/components/initializer/app.component.ts" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/treeview.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/widget.directive.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/app.shared.module.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/widget.module.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/baseWidget/widget.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/baseWidget/base.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/base.widget.directive.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/chart.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/menuSlider.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/control-sidbar/sidebar.component.css" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/gadgetAnalyser/analyser.component.css" />
+        <option value="$PROJECT_DIR$/ClientApp/dist/main-server.js" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/gadgetAnalyser/analyser.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/cartable/cartable.component.css" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/cartable/cartable.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/cartable/cartable.service.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/cartable/cartable.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/initializer/app.component.css" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/widgets/base.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/gadgetAnalyser/analyser.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/body.component.css" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/common/BaseTabContent.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/widgets/pivotclient.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/header/header.component.css" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/header/header.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/widgets/menuSlider.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/widgets/treeview.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.component.css" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/services/GUIDService.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/widgets/chart.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/chart.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/workflow/designer/workflowDesigner.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/workflow/designer/workflowDesigner.component.css" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/services/widgetType.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/control-sidbar/sidebar.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/control-sidbar/sidebar.component.html" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/pivotclient.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/BPMN.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/workflow/designer/workflowDesigner.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/services/MainServices.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/widgets/treeview.widget.directive.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/window.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/treeview.widget.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/body.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardExploere/explorer.component.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/maincontent.module.ts" />
+        <option value="$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/tab.content.module.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="-18" />
+    <option name="width" value="1340" />
+    <option name="height" value="684" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webDashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webDashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webDashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webDashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webDashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webDashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webDashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webDashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webDashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webDashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="contentSection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webDashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webDashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="contentSection" type="462c0819:PsiDirectoryNode" />
+              <item name="tabContents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webDashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webDashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="contentSection" type="462c0819:PsiDirectoryNode" />
+              <item name="tabContents" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webDashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webDashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="contentSection" type="462c0819:PsiDirectoryNode" />
+              <item name="tabContents" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboardExploere" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Files\repos\webDashboard\webDashboard\webDashboard\ClientApp\app\components\header\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Files\repos\webDashboard\webDashboard\webDashboard\ClientApp\app\components\contentSection\tabContents" />
+      <recent name="C:\Files\repos\webDashboard\webDashboard\ClientApp\app\components\contentSection\tabContents\dashboard\dashboardViewer\widgets" />
+      <recent name="C:\Files\repos\webDashboard\webDashboard\ClientApp\app\components\widgets" />
+      <recent name="C:\Files\repos\webDashboard\webDashboard\ClientApp\app\components\contentSection\tabContents\common\base" />
+      <recent name="C:\Files\repos\webDashboard\webDashboard\ClientApp\app\components\widgets\baseWidget" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13207ad7-1e50-49cb-b336-b2f63b166720" name="Default" comment="" />
+      <created>1521611918249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521611918249</updated>
+      <workItem from="1521611919743" duration="1373000" />
+      <workItem from="1521613715157" duration="2460000" />
+      <workItem from="1521624172807" duration="1468000" />
+      <workItem from="1521625719571" duration="1424000" />
+      <workItem from="1521636308736" duration="3147000" />
+      <workItem from="1521710668213" duration="276000" />
+      <workItem from="1521714126054" duration="4287000" />
+      <workItem from="1521727223072" duration="2960000" />
+      <workItem from="1521747911465" duration="1253000" />
+      <workItem from="1521780948505" duration="4065000" />
+      <workItem from="1521803311289" duration="1278000" />
+      <workItem from="1521970521252" duration="586000" />
+      <workItem from="1521971395715" duration="15239000" />
+      <workItem from="1522045456086" duration="4025000" />
+      <workItem from="1522065002737" duration="7827000" />
+      <workItem from="1522243174384" duration="7432000" />
+      <workItem from="1522266386332" duration="1332000" />
+      <workItem from="1522299360774" duration="196000" />
+      <workItem from="1522300838238" duration="4836000" />
+      <workItem from="1522307253400" duration="14999000" />
+      <workItem from="1522335748025" duration="4281000" />
+      <workItem from="1522382823811" duration="22390000" />
+      <workItem from="1522476847826" duration="4527000" />
+      <workItem from="1522489032921" duration="14416000" />
+      <workItem from="1522561151214" duration="23813000" />
+      <workItem from="1522645847886" duration="1818000" />
+      <workItem from="1522647844971" duration="1641000" />
+      <workItem from="1522927960227" duration="14469000" />
+      <workItem from="1522994209689" duration="9955000" />
+      <workItem from="1523118631905" duration="2713000" />
+      <workItem from="1523600949242" duration="454000" />
+      <workItem from="1524131505899" duration="15303000" />
+      <workItem from="1524202759990" duration="3937000" />
+      <workItem from="1524244010510" duration="4132000" />
+      <workItem from="1524502253675" duration="1775000" />
+      <workItem from="1524678082955" duration="2522000" />
+      <workItem from="1524809775476" duration="10000" />
+      <workItem from="1527702681290" duration="4000" />
+      <workItem from="1527748125464" duration="40000" />
+      <workItem from="1535620798682" duration="3399000" />
+      <workItem from="1535727158528" duration="1018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="213080000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.3293718" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35052317" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.503125" side_tool="true" weight="0.3289225" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32820514" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.496875" visible="true" weight="0.17826825" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32978722" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Learn" order="2" />
+      <window_info anchor="right" id="Database" order="7" weight="0.08510638" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ClientApp/app/components/control-sidbar/sidebar.component.ts</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/angular-gridster2/dist/gridsterConfig.interface.d.ts" />
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/widgets/baseWidget/widget.type.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/directives/widget/tab.content.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="63" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/control-sidbar/sidebar.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/cartable/cartable.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/initializer/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/cartable/cartable.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="135" column="7" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/common/BaseTabContent.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/header/header.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/header/header.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="115" column="17" selection-start-line="115" selection-start-column="17" selection-end-line="115" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/menuSlider.widget.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/services/GUIDService.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/workflow/designer/workflowDesigner.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="142" column="6" selection-start-line="142" selection-start-column="6" selection-end-line="142" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/workflow/designer/workflowDesigner.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardViewer/dashboard.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/control-sidbar/sidebar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/widgets/baseWidget/base.widget.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/control-sidbar/sidebar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/chart.widget.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/BPMN.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/workflow/designer/workflowDesigner.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.shared.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/gadgetAnalyser/analyser.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/services/widgetType.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/dist/main-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6664">
+          <caret line="392" column="27" selection-start-line="392" selection-start-column="27" selection-end-line="392" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/ej.web.all/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="20607" column="10" selection-start-line="20607" selection-start-column="10" selection-end-line="20607" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/pivotclient.widget.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/base.widget.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/services/MainServices.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/widgets/treeview.widget.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/AnalyserServiceController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/treeview.widget.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/boot.server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/widgets/window.widget.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/SampleDataController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/boot.browser.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/maincontent.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/tab.content.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/body.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/body.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/body.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardExploere/explorer.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" lean-forward="true" selection-end-line="186" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/contentSection/tabContents/dashboard/dashboardExploere/explorer.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/app.browser.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/initializer/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClientApp/app/components/initializer/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
